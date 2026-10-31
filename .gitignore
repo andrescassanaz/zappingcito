@@ -1,0 +1,21 @@
+# Los instaladores se distribuyen exclusivamente mediante GitHub Releases.
+*.apk
+*.aab
+dist/
+build/
+
+# Credenciales y firmas nunca forman parte del repo público.
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+*.dpapi
+
+# Archivos locales.
+.tools/
+.DS_Store
+Thumbs.db
