@@ -18,7 +18,7 @@ Podés guardar videos o abrirlos en el celu con un QR.
 
 **GitHub Releases:** [Descargar la APK de la última versión](https://github.com/andrescassanaz/zappingcito/releases/latest).
 
-<img src="docs/assets/downloader.png" alt="Downloader" width="20" height="20" align="absmiddle"> **Downloader (by AFTVnews):** ingresá el código **3058333**.
+<img src="docs/assets/downloader.png" alt="Downloader" width="20" height="20" align="absmiddle"> **Downloader (by AFTVnews):** ingresá el código **6505895**.
 
 ## Capturas
 
